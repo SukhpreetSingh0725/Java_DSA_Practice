@@ -11,6 +11,8 @@ public class SecondMax {
                 smax=arr[i];
             }
         }
+
+        
         return smax;
 
     }
