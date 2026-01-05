@@ -1,4 +1,4 @@
-package LinkedList;
+
 
 public class intersectionpoint {
     static int intersectPoint(Node head1, Node head2) {

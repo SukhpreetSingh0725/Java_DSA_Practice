@@ -1,4 +1,4 @@
-package LinkedList;
+
 
 public class removeloop {
     static void removeLoop(Node head) {

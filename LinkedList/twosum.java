@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class twosum {
     static Node addTwoLists(Node l1, Node l2) {
         Node dummy = new Node(0);
